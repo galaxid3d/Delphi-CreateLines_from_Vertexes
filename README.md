@@ -5,5 +5,7 @@ Purpose of the game: construct a drawing using points connected by lines.
 
 This is a children's game where the child must draw lines from dots with numbers.
 
+You can upload a drawing or photo for the background.
+
 > [!WARNING]\
 > The source code is encrypted - don't be alarmed, this is not a mistake, I did it on purpose. I don't want to publish the source code itself, but from these files you can understand the size of the project and its complexity.
